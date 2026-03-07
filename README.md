@@ -3,35 +3,38 @@ A Quiz Management System built using REST APIs that allows users to create, mana
 The system provides functionalities for managing quiz questions, conducting quizzes, and evaluating user responses through structured API endpoints.
 
 # 📌 Project Overview
-The Quiz Management System is designed to simplify the process of organizing and conducting quizzes in educational or training environments.
+ * The Quiz Management System is designed to simplify the process of organizing and conducting quizzes in educational or training environments.
 
-It allows administrators to create quizzes, add questions, and manage quiz data, while users can attempt quizzes and view their scores.
+* It allows administrators to create quizzes, add questions, and manage quiz data, while users can attempt quizzes and view their scores.
 
-This project demonstrates the implementation of RESTful API architecture, backend logic, and database integration for efficient quiz management.
+* This project demonstrates the implementation of RESTful API architecture, backend logic, and database integration for efficient quiz management.
 
 ## ✨ Features
-✅ Create and manage quizzes
-✅ Add, update, and delete quiz questions
-✅ Attempt quizzes through API endpoints
-✅ Automatic score calculation
-✅ Store quiz results in database
-✅ RESTful API design for easy frontend integration
++ Create and manage quizzes
++ Add, update, and delete quiz questions
++ Attempt quizzes through API endpoints
++ Automatic score calculation
++ Store quiz results in database
++ RESTful API design for easy frontend integration
 
 ## 🛠 Tech Stack
 💻 Backend
-Java
 
-Spring Boot
++ Java
 
-REST API
++ Spring Boot
+
++ REST API
 
 🗄 Database
-MySQL
+
++ MySQL
 
 🔧 Tools
-Postman (API Testing)
 
-Git & GitHub (Version Control)
++ Postman (API Testing)
+
++ Git & GitHub (Version Control)
 
 ## 🔗 API Functionalities
 The system provides several REST API endpoints for quiz management.
